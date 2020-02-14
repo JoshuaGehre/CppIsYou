@@ -1,0 +1,7 @@
+#Ignore files created while playing
+Levels/*/CppIsYou.cpp
+Levels/*/CppIsYou
+
+#Ignore the scripts these are copies of those is Scripts/
+Levels/*/Move.sh
+Levels/*/Restart.sh
