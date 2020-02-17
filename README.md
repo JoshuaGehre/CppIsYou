@@ -13,6 +13,10 @@ If you create a version of the source code that does not compile you can no long
 
 As you will modify the code of the game while playing, I cannot guarantee for the safety of any code you might be able to create while playing. Play this game at your own risk!
 
+# Help other people to pass Level 0
+This puzzle game was completely made on Linux and meant to be played from the command line, requiring the g++ compiler.
+If you know how to create equivalent scripts so that people for example on Windows are also able to play this please let know.
+
 # Credits
 In case anyone else decides to create levels for this game.
 
